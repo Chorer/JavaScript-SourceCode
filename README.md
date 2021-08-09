@@ -44,6 +44,11 @@
 * [Promise.prototype.catch](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Promise/Promise_A%2B_catch.js)
 * [Promise.prototype.finally](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Promise/Promise_A%2B_finally.js)
 
+## Design pattern
+
+* [单例模式](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Design%20pattern/singleTon.js)
+* [订阅-发布模式 / EventEmitter](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Design%20pattern/EventEmitter.js)
+
 ## Utils
 
 * [对象扁平化](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Utils/flatObject.js)
@@ -52,8 +57,9 @@
 * [序列化](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Utils/jsonStringify.js)
 * [数组去重](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Utils/ArrayDeduplication.js)
 * [数组扁平化](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Utils/flatArray.js)
-* [订阅-发布 / EventEmitter](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Utils/EventEmitter.js)
 * [睡眠函数 / sleep](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Utils/sleep.js)
 * [防抖](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Utils/debounce.js)
 * [节流](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Utils/throttle.js)
+
+
 
