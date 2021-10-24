@@ -33,16 +33,17 @@
 
 ## Promise
 
-* [基于 Promise 封装 Ajax](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Promise/Promise_A%2B_Ajax.js)
+* [基于 Promise 封装 Ajax](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Promise/Promise_Ajax.js)
 * [Promise/A+ ES5 版本](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Promise/Promise_A%2B_ES5.js)
 * [Promsie/A+ ES6 版本](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Promise/Promise_A%2B_ES6.js)
-* [Promise.resolve](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Promise/Promise_A%2B_resolve.js)
-* [Promise.reject](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Promise/Promise_A%2B_reject.js)
-* [Promise.all](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Promise/Promise_A%2B_all.js)
-* [Promise.race](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Promise/Promise_A%2B_race.js)
-* [Promise.allSettled](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Promise/Promise_A%2B_allSettled.js)
-* [Promise.prototype.catch](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Promise/Promise_A%2B_catch.js)
-* [Promise.prototype.finally](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Promise/Promise_A%2B_finally.js)
+* [Promise.resolve](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Promise/Promise_resolve.js)
+* [Promise.reject](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Promise/Promise_reject.js)
+* [Promise.all](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Promise/Promise_all.js)
+* [Promise.any](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Promise/Promise_any.js)
+* [Promise.race](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Promise/Promise_race.js)
+* [Promise.allSettled](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Promise/Promise_allSettled.js)
+* [Promise.prototype.catch](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Promise/Promise_catch.js)
+* [Promise.prototype.finally](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Promise/Promise_finally.js)
 
 ## Design pattern
 
@@ -52,11 +53,12 @@
 ## Utils
 
 * [对象扁平化](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Utils/flatObject.js)
+* [数组扁平化](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Utils/flatArray.js)
+* [数组去重](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Utils/deduplicateArray.js)
 * [浅拷贝](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Utils/shallowClone.js)
 * [深拷贝](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Utils/deepClone.js)
 * [序列化](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Utils/jsonStringify.js)
-* [数组去重](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Utils/ArrayDeduplication.js)
-* [数组扁平化](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Utils/flatArray.js)
+* [柯里化](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Utils/currying.js)
 * [睡眠函数 / sleep](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Utils/sleep.js)
 * [防抖](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Utils/debounce.js)
 * [节流](https://github.com/Chorer/JavaScript-SourceCode/blob/main/Utils/throttle.js)
